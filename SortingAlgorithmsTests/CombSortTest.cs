@@ -7,8 +7,11 @@ namespace SortingAlgorithmsTests
         [Fact]
         public void CombSortAlgorithmTest()
         {
+            //Arrange
             int[] array = new int[] { 5, 4, 3, 2, 1 };
+            //Act
             CombSort.CombSortAlgorithm(array);
+            //Assert
             Assert.Equal(1, array[0]);
             Assert.Equal(2, array[1]);
             Assert.Equal(3, array[2]);
