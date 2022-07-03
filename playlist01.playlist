@@ -1,0 +1,107 @@
+<Playlist Version="2.0">
+  <Rule Name="Includes" Match="Any">
+    <Rule Match="All">
+      <Property Name="Solution" />
+      <Rule Match="Any">
+        <Rule Match="All">
+          <Property Name="Project" Value="SortingAlgorithmsTests" />
+          <Rule Match="Any">
+            <Rule Match="All">
+              <Property Name="Namespace" Value="SortingAlgorithmsTests" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="BubbleSortTest" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="SortingAlgorithmsTests.BubbleSortTest.BubbleSortAlgorithmTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="SortingAlgorithmsTests.BubbleSortTest.BubbleSortAlgorithmTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="BucketSortTest" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="SortingAlgorithmsTests.BucketSortTest.BucketSortAlgorithmTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="SortingAlgorithmsTests.BucketSortTest.BucketSortAlgorithmTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="CombSortTest" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="SortingAlgorithmsTests.CombSortTest.CombSortAlgorithmTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="SortingAlgorithmsTests.CombSortTest.CombSortAlgorithmTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="HeapSortTest" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="SortingAlgorithmsTests.HeapSortTest.HeapSortAlgorithmTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="SortingAlgorithmsTests.HeapSortTest.HeapSortAlgorithmTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="InsertionSortTest" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="SortingAlgorithmsTests.InsertionSortTest.InsertionSortAlgorithmTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="SortingAlgorithmsTests.InsertionSortTest.InsertionSortAlgorithmTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="MergeSortTest" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="SortingAlgorithmsTests.MergeSortTest.MergeSortAlgorithmTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="SortingAlgorithmsTests.MergeSortTest.MergeSortAlgorithmTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SelectionSortTest" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="SortingAlgorithmsTests.SelectionSortTest.SelectionSortAlgorithmTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="SortingAlgorithmsTests.SelectionSortTest.SelectionSortAlgorithmTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="ShellSortTest" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="SortingAlgorithmsTests.ShellSortTest.ShellSortAlgorithmTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="SortingAlgorithmsTests.ShellSortTest.ShellSortAlgorithmTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+          </Rule>
+        </Rule>
+      </Rule>
+    </Rule>
+  </Rule>
+</Playlist>

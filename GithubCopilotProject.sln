@@ -5,7 +5,12 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GithubCopilotProject", "GithubCopilotProject\GithubCopilotProject.csproj", "{725A3182-1546-4CAB-9A6E-E7D3B4EE6254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithmsTests", "SortingAlgorithmsTests\SortingAlgorithmsTests.csproj", "{18714F4F-112C-4AB1-A5DF-7F65384302BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingAlgorithmsTests", "SortingAlgorithmsTests\SortingAlgorithmsTests.csproj", "{18714F4F-112C-4AB1-A5DF-7F65384302BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{890E087B-BCA9-48E0-9638-3F91649508C8}"
+	ProjectSection(SolutionItems) = preProject
+		testEnvironments.json = testEnvironments.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
